@@ -1,0 +1,19 @@
+{
+  "name": "api-restful-favoritos",
+  "version": "1.0.0",
+  "description": "Proyecto de Custo Udemy MEAN",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uriel David Arana Navas",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
